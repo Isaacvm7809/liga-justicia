@@ -7,4 +7,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Modifiqué esta línea intencional para ver el efecto
 
 $ Nueva actualización, from 20:45, Friday 13
+$ Actualizado desde Github 21:13
+
 
